@@ -1,0 +1,10 @@
+total 100
+-rw-rw-rw-    1 codespace codespace 70857 Sep 10 09:11 package-lock.json
+drwxrwxrwx+   2 codespace codespace  4096 Sep 10 07:37 app
+drwxrwxrwx+   2 codespace codespace  4096 Sep 10 07:42 db
+drwxrwxrwx+ 136 codespace codespace  4096 Sep 10 09:11 node_modules
+drwxrwxrwx+   2 codespace codespace  4096 Sep 10 08:23 srv
+-rw-r--r--    1 codespace nvm         590 Sep 10 07:37 readme.md
+-rw-rw-rw-    1 codespace codespace   417 Sep 10 09:11 package.json
+-rw-rw-rw-    1 codespace codespace   161 Sep 10 09:11 eslint.config.mjs
+-rw-rw-rw-    1 codespace codespace     0 Sep 10 10:47 output.txt
